@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #1c1c1c;
+  color: #fff;
+}
+
+.navbar-custom {
+  background-color: #ff0000;
+}
+
+.card-custom {
+  background-color: #000;
+  border: 1px solid #ff0000;
+}
+
+.card-title, .card-text {
+  color: #fff;
+}
+
+.footer {
+  background-color: #000;
+  color: #ff0000;
+  text-align: center;
+  padding: 10px;
+}
